@@ -1,0 +1,11 @@
+
+
+# remove obj files
+generickmerindexLexo/lib/objdir
+generickmerindexRand/lib/objdir
+
+# remove all binaries 
+generickmerindexLexo/bin
+generickmerindexRand/bin
+
+
